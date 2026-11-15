@@ -1,8 +1,8 @@
 Subject: IIT Delhi – Founding AI Engineer - 2027
 
 **Prototype:** <your Vercel link> (best on a phone; add to home screen)
-**Repo:** <your GitHub link>
-**AI build history:** <share link to the Claude session(s)>
+**Repo:** https://github.com/goldfish-ez/ENAM-project
+**AI build history:** https://claude.ai/code/session_01GPY31jQmnQzy9CySbk5G1J
 
 ---
 
