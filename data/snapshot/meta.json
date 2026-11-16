@@ -1,0 +1,14 @@
+{
+ "asOf": "2026-11-16T22:58:10.024Z",
+ "filingsSource": "BSE announcements API",
+ "pricesSource": "Yahoo Finance chart API",
+ "fundamentalsSource": "screener.in",
+ "llm": {
+  "calls": 0,
+  "inputTokens": 0,
+  "outputTokens": 0,
+  "costUsd": 0,
+  "lifetimeCalls": 0
+ },
+ "errors": []
+}

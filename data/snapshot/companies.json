@@ -1,0 +1,92 @@
+[
+ {
+  "ticker": "HDFCBANK",
+  "price": 816,
+  "mcap": 1260056,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "BAJFINANCE",
+  "price": 1110,
+  "mcap": 691081,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "CHOLAFIN",
+  "price": 1850,
+  "mcap": 158645,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "TITAN",
+  "price": 4910,
+  "mcap": 435903,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "TRENT",
+  "price": 3204,
+  "mcap": 170832,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "ASIANPAINT",
+  "price": 2573,
+  "mcap": 246792,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "DIXON",
+  "price": 12890,
+  "mcap": 78898,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "PIIND",
+  "price": 1680,
+  "mcap": 25489,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "SRF",
+  "price": 2477,
+  "mcap": 73424,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "POLYCAB",
+  "price": 7956,
+  "mcap": 119897,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "PERSISTENT",
+  "price": 5978,
+  "mcap": 99144,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "KPITTECH",
+  "price": 536,
+  "mcap": 14702,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "SUNPHARMA",
+  "price": 1868,
+  "mcap": 448076,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "LT",
+  "price": 4140,
+  "mcap": 569629,
+  "priceAsOf": "2026-11-16"
+ },
+ {
+  "ticker": "ETERNAL",
+  "price": 371,
+  "mcap": 358125,
+  "priceAsOf": "2026-11-16"
+ }
+]

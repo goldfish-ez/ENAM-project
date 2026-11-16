@@ -1,0 +1,1232 @@
+{
+ "HDFCBANK": [
+  {
+   "label": "Dec 2024",
+   "sales": 85040,
+   "ebitda": null,
+   "otherIncome": 27154,
+   "interest": 46914,
+   "dep": 0,
+   "pbt": 23973,
+   "pat": 18340
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 86779,
+   "ebitda": null,
+   "otherIncome": 33489,
+   "interest": 46986,
+   "dep": 0,
+   "pbt": 25573,
+   "pat": 19285
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 87372,
+   "ebitda": null,
+   "otherIncome": 45683,
+   "interest": 47709,
+   "dep": 0,
+   "pbt": 20850,
+   "pat": 17090
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 86994,
+   "ebitda": null,
+   "otherIncome": 31567,
+   "interest": 46741,
+   "dep": 0,
+   "pbt": 26659,
+   "pat": 20364
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 87067,
+   "ebitda": null,
+   "otherIncome": 39860,
+   "interest": 45821,
+   "dep": 0,
+   "pbt": 26961,
+   "pat": 20691
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 87182,
+   "ebitda": null,
+   "otherIncome": 29737,
+   "interest": 45220,
+   "dep": 0,
+   "pbt": 27672,
+   "pat": 21074
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 90575,
+   "ebitda": null,
+   "otherIncome": 42535,
+   "interest": 47626,
+   "dep": 0,
+   "pbt": 27193,
+   "pat": 20383
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 95132,
+   "ebitda": null,
+   "otherIncome": 34227,
+   "interest": 50667,
+   "dep": 0,
+   "pbt": 28663,
+   "pat": 21537
+  }
+ ],
+ "BAJFINANCE": [
+  {
+   "label": "Dec 2024",
+   "sales": 18035,
+   "ebitda": null,
+   "otherIncome": 26,
+   "interest": 6386,
+   "dep": 219,
+   "pbt": 5765,
+   "pat": 4308
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 18294,
+   "ebitda": null,
+   "otherIncome": 21,
+   "interest": 6551,
+   "dep": 252,
+   "pbt": 5647,
+   "pat": 4546
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 19524,
+   "ebitda": null,
+   "otherIncome": 5,
+   "interest": 6918,
+   "dep": 251,
+   "pbt": 6368,
+   "pat": 4765
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 19990,
+   "ebitda": null,
+   "otherIncome": 5,
+   "interest": 7011,
+   "dep": 258,
+   "pbt": 6608,
+   "pat": 4948
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 21013,
+   "ebitda": null,
+   "otherIncome": -262,
+   "interest": 7339,
+   "dep": 244,
+   "pbt": 5431,
+   "pat": 4066
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 21606,
+   "ebitda": null,
+   "otherIncome": 11,
+   "interest": 7398,
+   "dep": 256,
+   "pbt": 7410,
+   "pat": 5553
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 23165,
+   "ebitda": null,
+   "otherIncome": 6,
+   "interest": 7942,
+   "dep": 288,
+   "pbt": 8149,
+   "pat": 6081
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 24546,
+   "ebitda": null,
+   "otherIncome": 33,
+   "interest": 8602,
+   "dep": 321,
+   "pbt": 8537,
+   "pat": 6367
+  }
+ ],
+ "CHOLAFIN": [
+  {
+   "label": "Dec 2024",
+   "sales": 6733,
+   "ebitda": null,
+   "otherIncome": 105,
+   "interest": 3275,
+   "dep": 59,
+   "pbt": 1466,
+   "pat": 1088
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 7046,
+   "ebitda": null,
+   "otherIncome": 92,
+   "interest": 3365,
+   "dep": 64,
+   "pbt": 1699,
+   "pat": 1260
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 7267,
+   "ebitda": null,
+   "otherIncome": 87,
+   "interest": 3468,
+   "dep": 67,
+   "pbt": 1532,
+   "pat": 1138
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 7491,
+   "ebitda": null,
+   "otherIncome": 123,
+   "interest": 3517,
+   "dep": 71,
+   "pbt": 1566,
+   "pat": 1160
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 7898,
+   "ebitda": null,
+   "otherIncome": 111,
+   "interest": 3646,
+   "dep": 74,
+   "pbt": 1736,
+   "pat": 1290
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 8417,
+   "ebitda": null,
+   "otherIncome": 148,
+   "interest": 3753,
+   "dep": 72,
+   "pbt": 2143,
+   "pat": 1645
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 8856,
+   "ebitda": null,
+   "otherIncome": 102,
+   "interest": 4007,
+   "dep": 75,
+   "pbt": 2224,
+   "pat": 1656
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 9271,
+   "ebitda": null,
+   "otherIncome": 125,
+   "interest": 4334,
+   "dep": 83,
+   "pbt": 2188,
+   "pat": 1630
+  }
+ ],
+ "TITAN": [
+  {
+   "label": "Dec 2024",
+   "sales": 17740,
+   "ebitda": 1674,
+   "otherIncome": 128,
+   "interest": 231,
+   "dep": 175,
+   "pbt": 1396,
+   "pat": 1047
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 14916,
+   "ebitda": 1537,
+   "otherIncome": 116,
+   "interest": 252,
+   "dep": 183,
+   "pbt": 1218,
+   "pat": 871
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 16523,
+   "ebitda": 1830,
+   "otherIncome": 105,
+   "interest": 271,
+   "dep": 184,
+   "pbt": 1480,
+   "pat": 1091
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 18725,
+   "ebitda": 1875,
+   "otherIncome": 113,
+   "interest": 277,
+   "dep": 189,
+   "pbt": 1522,
+   "pat": 1120
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 25416,
+   "ebitda": 2713,
+   "otherIncome": -1,
+   "interest": 282,
+   "dep": 207,
+   "pbt": 2223,
+   "pat": 1684
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 26920,
+   "ebitda": 1938,
+   "otherIncome": 235,
+   "interest": 350,
+   "dep": 246,
+   "pbt": 1577,
+   "pat": 1179
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 21356,
+   "ebitda": 2890,
+   "otherIncome": 148,
+   "interest": 353,
+   "dep": 256,
+   "pbt": 2429,
+   "pat": 1777
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 20614,
+   "ebitda": 2983,
+   "otherIncome": 816,
+   "interest": 536,
+   "dep": 263,
+   "pbt": 3000,
+   "pat": 2393
+  }
+ ],
+ "TRENT": [
+  {
+   "label": "Dec 2024",
+   "sales": 4657,
+   "ebitda": 847,
+   "otherIncome": 80,
+   "interest": 37,
+   "dep": 245,
+   "pbt": 646,
+   "pat": 497
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 4217,
+   "ebitda": 651,
+   "otherIncome": 74,
+   "interest": 38,
+   "dep": 272,
+   "pbt": 416,
+   "pat": 312
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 4883,
+   "ebitda": 848,
+   "otherIncome": 50,
+   "interest": 40,
+   "dep": 293,
+   "pbt": 565,
+   "pat": 425
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 4818,
+   "ebitda": 816,
+   "otherIncome": 28,
+   "interest": 42,
+   "dep": 325,
+   "pbt": 477,
+   "pat": 373
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 5345,
+   "ebitda": 1081,
+   "otherIncome": 5,
+   "interest": 43,
+   "dep": 367,
+   "pbt": 676,
+   "pat": 510
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 5028,
+   "ebitda": 911,
+   "otherIncome": 28,
+   "interest": 44,
+   "dep": 377,
+   "pbt": 519,
+   "pat": 413
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 5755,
+   "ebitda": 1119,
+   "otherIncome": 30,
+   "interest": 47,
+   "dep": 410,
+   "pbt": 692,
+   "pat": 518
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 5873,
+   "ebitda": 1057,
+   "otherIncome": 26,
+   "interest": 44,
+   "dep": 420,
+   "pbt": 619,
+   "pat": 468
+  }
+ ],
+ "ASIANPAINT": [
+  {
+   "label": "Dec 2024",
+   "sales": 8549,
+   "ebitda": 1637,
+   "otherIncome": 193,
+   "interest": 56,
+   "dep": 256,
+   "pbt": 1518,
+   "pat": 1128
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 8359,
+   "ebitda": 1436,
+   "otherIncome": -60,
+   "interest": 53,
+   "dep": 301,
+   "pbt": 1022,
+   "pat": 701
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 8939,
+   "ebitda": 1625,
+   "otherIncome": 229,
+   "interest": 44,
+   "dep": 301,
+   "pbt": 1509,
+   "pat": 1117
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 8531,
+   "ebitda": 1503,
+   "otherIncome": 237,
+   "interest": 44,
+   "dep": 305,
+   "pbt": 1392,
+   "pat": 1018
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 8867,
+   "ebitda": 1781,
+   "otherIncome": 69,
+   "interest": 48,
+   "dep": 313,
+   "pbt": 1489,
+   "pat": 1074
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 9247,
+   "ebitda": 1787,
+   "otherIncome": 197,
+   "interest": 59,
+   "dep": 310,
+   "pbt": 1614,
+   "pat": 1185
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 10542,
+   "ebitda": 2169,
+   "otherIncome": 279,
+   "interest": 48,
+   "dep": 304,
+   "pbt": 2096,
+   "pat": 1559
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 9977,
+   "ebitda": 1557,
+   "otherIncome": 290,
+   "interest": 55,
+   "dep": 314,
+   "pbt": 1478,
+   "pat": 1085
+  }
+ ],
+ "DIXON": [
+  {
+   "label": "Dec 2024",
+   "sales": 10454,
+   "ebitda": 391,
+   "otherIncome": 10,
+   "interest": 41,
+   "dep": 75,
+   "pbt": 285,
+   "pat": 216
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 10293,
+   "ebitda": 443,
+   "otherIncome": 265,
+   "interest": 46,
+   "dep": 86,
+   "pbt": 576,
+   "pat": 465
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 12836,
+   "ebitda": 482,
+   "otherIncome": 8,
+   "interest": 33,
+   "dep": 93,
+   "pbt": 366,
+   "pat": 280
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 14855,
+   "ebitda": 561,
+   "otherIncome": 497,
+   "interest": 38,
+   "dep": 96,
+   "pbt": 924,
+   "pat": 746
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 10672,
+   "ebitda": 414,
+   "otherIncome": 139,
+   "interest": 43,
+   "dep": 99,
+   "pbt": 412,
+   "pat": 321
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 10511,
+   "ebitda": 408,
+   "otherIncome": 90,
+   "interest": 24,
+   "dep": 105,
+   "pbt": 370,
+   "pat": 298
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 15548,
+   "ebitda": 463,
+   "otherIncome": 537,
+   "interest": 24,
+   "dep": 107,
+   "pbt": 869,
+   "pat": 718
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 21794,
+   "ebitda": 597,
+   "otherIncome": 72,
+   "interest": 26,
+   "dep": 110,
+   "pbt": 532,
+   "pat": 411
+  }
+ ],
+ "PIIND": [
+  {
+   "label": "Dec 2024",
+   "sales": 1901,
+   "ebitda": 512,
+   "otherIncome": 76,
+   "interest": 8,
+   "dep": 99,
+   "pbt": 481,
+   "pat": 373
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 1787,
+   "ebitda": 456,
+   "otherIncome": 75,
+   "interest": 8,
+   "dep": 90,
+   "pbt": 432,
+   "pat": 330
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 1900,
+   "ebitda": 519,
+   "otherIncome": 89,
+   "interest": 4,
+   "dep": 96,
+   "pbt": 507,
+   "pat": 400
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 1872,
+   "ebitda": 541,
+   "otherIncome": 85,
+   "interest": 3,
+   "dep": 98,
+   "pbt": 525,
+   "pat": 409
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 1376,
+   "ebitda": 302,
+   "otherIncome": 172,
+   "interest": 6,
+   "dep": 105,
+   "pbt": 363,
+   "pat": 311
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 1565,
+   "ebitda": 337,
+   "otherIncome": 74,
+   "interest": 4,
+   "dep": 107,
+   "pbt": 300,
+   "pat": 200
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 1702,
+   "ebitda": 367,
+   "otherIncome": 66,
+   "interest": 8,
+   "dep": 104,
+   "pbt": 322,
+   "pat": 244
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 1702,
+   "ebitda": 233,
+   "otherIncome": 65,
+   "interest": 8,
+   "dep": 105,
+   "pbt": 184,
+   "pat": 122
+  }
+ ],
+ "SRF": [
+  {
+   "label": "Dec 2024",
+   "sales": 3491,
+   "ebitda": 620,
+   "otherIncome": 40,
+   "interest": 96,
+   "dep": 194,
+   "pbt": 369,
+   "pat": 271
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 4313,
+   "ebitda": 957,
+   "otherIncome": 34,
+   "interest": 89,
+   "dep": 195,
+   "pbt": 707,
+   "pat": 526
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 3819,
+   "ebitda": 830,
+   "otherIncome": 29,
+   "interest": 80,
+   "dep": 203,
+   "pbt": 576,
+   "pat": 432
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 3640,
+   "ebitda": 774,
+   "otherIncome": 26,
+   "interest": 71,
+   "dep": 212,
+   "pbt": 517,
+   "pat": 388
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 3713,
+   "ebitda": 780,
+   "otherIncome": -46,
+   "interest": 66,
+   "dep": 217,
+   "pbt": 452,
+   "pat": 433
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 4615,
+   "ebitda": 1026,
+   "otherIncome": 13,
+   "interest": 62,
+   "dep": 220,
+   "pbt": 757,
+   "pat": 582
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 5033,
+   "ebitda": 1237,
+   "otherIncome": 34,
+   "interest": 69,
+   "dep": 223,
+   "pbt": 979,
+   "pat": 759
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 4904,
+   "ebitda": 946,
+   "otherIncome": 25,
+   "interest": 71,
+   "dep": 229,
+   "pbt": 671,
+   "pat": 509
+  }
+ ],
+ "POLYCAB": [
+  {
+   "label": "Dec 2024",
+   "sales": 5226,
+   "ebitda": 720,
+   "otherIncome": 25,
+   "interest": 50,
+   "dep": 79,
+   "pbt": 617,
+   "pat": 464
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 6986,
+   "ebitda": 1025,
+   "otherIncome": 48,
+   "interest": 33,
+   "dep": 80,
+   "pbt": 961,
+   "pat": 734
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 5906,
+   "ebitda": 858,
+   "otherIncome": 80,
+   "interest": 51,
+   "dep": 86,
+   "pbt": 801,
+   "pat": 600
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 6477,
+   "ebitda": 1021,
+   "otherIncome": 45,
+   "interest": 48,
+   "dep": 97,
+   "pbt": 921,
+   "pat": 693
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 7636,
+   "ebitda": 966,
+   "otherIncome": 50,
+   "interest": 69,
+   "dep": 106,
+   "pbt": 842,
+   "pat": 630
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 8864,
+   "ebitda": 1161,
+   "otherIncome": 60,
+   "interest": 75,
+   "dep": 98,
+   "pbt": 1049,
+   "pat": 786
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 8210,
+   "ebitda": 1136,
+   "otherIncome": 105,
+   "interest": 80,
+   "dep": 103,
+   "pbt": 1058,
+   "pat": 797
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 9899,
+   "ebitda": 1422,
+   "otherIncome": 88,
+   "interest": 94,
+   "dep": 111,
+   "pbt": 1306,
+   "pat": 990
+  }
+ ],
+ "PERSISTENT": [
+  {
+   "label": "Dec 2024",
+   "sales": 3062,
+   "ebitda": 538,
+   "otherIncome": 43,
+   "interest": 16,
+   "dep": 82,
+   "pbt": 482,
+   "pat": 373
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 3242,
+   "ebitda": 584,
+   "otherIncome": 18,
+   "interest": 18,
+   "dep": 79,
+   "pbt": 505,
+   "pat": 396
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 3334,
+   "ebitda": 612,
+   "otherIncome": 55,
+   "interest": 17,
+   "dep": 94,
+   "pbt": 555,
+   "pat": 425
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 3581,
+   "ebitda": 683,
+   "otherIncome": 52,
+   "interest": 18,
+   "dep": 100,
+   "pbt": 617,
+   "pat": 471
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 3778,
+   "ebitda": 733,
+   "otherIncome": -49,
+   "interest": 19,
+   "dep": 101,
+   "pbt": 565,
+   "pat": 439
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 4056,
+   "ebitda": 768,
+   "otherIncome": 33,
+   "interest": 19,
+   "dep": 109,
+   "pbt": 674,
+   "pat": 529
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 4303,
+   "ebitda": 697,
+   "otherIncome": 71,
+   "interest": 29,
+   "dep": 115,
+   "pbt": 623,
+   "pat": 483
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 4664,
+   "ebitda": 633,
+   "otherIncome": 24,
+   "interest": 38,
+   "dep": 167,
+   "pbt": 454,
+   "pat": 352
+  }
+ ],
+ "KPITTECH": [
+  {
+   "label": "Dec 2024",
+   "sales": 1478,
+   "ebitda": 306,
+   "otherIncome": 19,
+   "interest": 10,
+   "dep": 58,
+   "pbt": 257,
+   "pat": 187
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 1528,
+   "ebitda": 323,
+   "otherIncome": 60,
+   "interest": 9,
+   "dep": 58,
+   "pbt": 316,
+   "pat": 245
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 1539,
+   "ebitda": 295,
+   "otherIncome": 16,
+   "interest": 12,
+   "dep": 63,
+   "pbt": 236,
+   "pat": 172
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 1588,
+   "ebitda": 298,
+   "otherIncome": 24,
+   "interest": 16,
+   "dep": 75,
+   "pbt": 231,
+   "pat": 169
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 1617,
+   "ebitda": 311,
+   "otherIncome": -26,
+   "interest": 23,
+   "dep": 81,
+   "pbt": 181,
+   "pat": 133
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 1711,
+   "ebitda": 317,
+   "otherIncome": 12,
+   "interest": 22,
+   "dep": 82,
+   "pbt": 225,
+   "pat": 163
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 1675,
+   "ebitda": 257,
+   "otherIncome": 8,
+   "interest": 23,
+   "dep": 83,
+   "pbt": 160,
+   "pat": 116
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 1691,
+   "ebitda": 267,
+   "otherIncome": 8,
+   "interest": 21,
+   "dep": 86,
+   "pbt": 168,
+   "pat": 121
+  }
+ ],
+ "SUNPHARMA": [
+  {
+   "label": "Dec 2024",
+   "sales": 13675,
+   "ebitda": 4009,
+   "otherIncome": 149,
+   "interest": 52,
+   "dep": 631,
+   "pbt": 3476,
+   "pat": 2913
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 12959,
+   "ebitda": 3716,
+   "otherIncome": 251,
+   "interest": 49,
+   "dep": 664,
+   "pbt": 3254,
+   "pat": 2154
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 13851,
+   "ebitda": 4302,
+   "otherIncome": -354,
+   "interest": 75,
+   "dep": 701,
+   "pbt": 3173,
+   "pat": 2293
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 14478,
+   "ebitda": 4527,
+   "otherIncome": 470,
+   "interest": 100,
+   "dep": 730,
+   "pbt": 4168,
+   "pat": 3125
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 15521,
+   "ebitda": 4948,
+   "otherIncome": 89,
+   "interest": 78,
+   "dep": 732,
+   "pbt": 4227,
+   "pat": 3381
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 14612,
+   "ebitda": 3954,
+   "otherIncome": 458,
+   "interest": 86,
+   "dep": 775,
+   "pbt": 3551,
+   "pat": 2710
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 15300,
+   "ebitda": 4418,
+   "otherIncome": 520,
+   "interest": 100,
+   "dep": 739,
+   "pbt": 4099,
+   "pat": 2901
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 16199,
+   "ebitda": 4744,
+   "otherIncome": -752,
+   "interest": 75,
+   "dep": 758,
+   "pbt": 3159,
+   "pat": 1995
+  }
+ ],
+ "LT": [
+  {
+   "label": "Dec 2024",
+   "sales": 64668,
+   "ebitda": 7898,
+   "otherIncome": 968,
+   "interest": 2486,
+   "dep": 1047,
+   "pbt": 5333,
+   "pat": 3974
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 74392,
+   "ebitda": 9876,
+   "otherIncome": 1610,
+   "interest": 2419,
+   "dep": 1052,
+   "pbt": 8014,
+   "pat": 6156
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 63679,
+   "ebitda": 8024,
+   "otherIncome": 1357,
+   "interest": 2488,
+   "dep": 1033,
+   "pbt": 5860,
+   "pat": 4318
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 67984,
+   "ebitda": 8513,
+   "otherIncome": 1384,
+   "interest": 2470,
+   "dep": 1092,
+   "pbt": 6336,
+   "pat": 4678
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 71450,
+   "ebitda": 9190,
+   "otherIncome": -350,
+   "interest": 2399,
+   "dep": 1072,
+   "pbt": 5370,
+   "pat": 3825
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 82762,
+   "ebitda": 10419,
+   "otherIncome": 1647,
+   "interest": 2488,
+   "dep": 1168,
+   "pbt": 8410,
+   "pat": 6133
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 67942,
+   "ebitda": 8149,
+   "otherIncome": 2377,
+   "interest": 2571,
+   "dep": 1032,
+   "pbt": 6922,
+   "pat": 4988
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 78750,
+   "ebitda": 8814,
+   "otherIncome": 2306,
+   "interest": 2442,
+   "dep": 1037,
+   "pbt": 7641,
+   "pat": 5949
+  }
+ ],
+ "ETERNAL": [
+  {
+   "label": "Dec 2024",
+   "sales": 5405,
+   "ebitda": 162,
+   "otherIncome": 252,
+   "interest": 43,
+   "dep": 247,
+   "pbt": 124,
+   "pat": 59
+  },
+  {
+   "label": "Mar 2025",
+   "sales": 5833,
+   "ebitda": 72,
+   "otherIncome": 368,
+   "interest": 56,
+   "dep": 287,
+   "pbt": 97,
+   "pat": 39
+  },
+  {
+   "label": "Jun 2025",
+   "sales": 7167,
+   "ebitda": 115,
+   "otherIncome": 354,
+   "interest": 67,
+   "dep": 314,
+   "pbt": 88,
+   "pat": 25
+  },
+  {
+   "label": "Sep 2025",
+   "sales": 13590,
+   "ebitda": 239,
+   "otherIncome": 352,
+   "interest": 86,
+   "dep": 376,
+   "pbt": 129,
+   "pat": 65
+  },
+  {
+   "label": "Dec 2025",
+   "sales": 16315,
+   "ebitda": 368,
+   "otherIncome": 348,
+   "interest": 107,
+   "dep": 439,
+   "pbt": 170,
+   "pat": 102
+  },
+  {
+   "label": "Mar 2026",
+   "sales": 17292,
+   "ebitda": 486,
+   "otherIncome": 342,
+   "interest": 132,
+   "dep": 468,
+   "pbt": 228,
+   "pat": 174
+  },
+  {
+   "label": "Jun 2026",
+   "sales": 20211,
+   "ebitda": 594,
+   "otherIncome": 375,
+   "interest": 151,
+   "dep": 546,
+   "pbt": 272,
+   "pat": 92
+  },
+  {
+   "label": "Sep 2026",
+   "sales": 24138,
+   "ebitda": 752,
+   "otherIncome": 351,
+   "interest": 155,
+   "dep": 625,
+   "pbt": 323,
+   "pat": 125
+  }
+ ]
+}
