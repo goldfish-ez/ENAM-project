@@ -1,5 +1,65 @@
 [
  {
+  "id": "1bd79894-a9bf-4c11-8b49-ec7ae0401b4e",
+  "ticker": "SRF",
+  "at": "2026-11-17T17:49:46+05:30",
+  "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+  "summary": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for KAMA Realty (Delhi) Ltd",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1BD79894_A9BF_4C11_8B49_EC7AE0401B4E_174933.pdf",
+  "category": "M&A",
+  "source": "bse"
+ },
+ {
+  "id": "1853dac3-3a4a-4cc2-b9f9-fdabe7691ada",
+  "ticker": "HDFCBANK",
+  "at": "2026-11-17T15:47:31+05:30",
+  "title": "Grant Of Stock Options And Restricted Stock Units Under ESOP/RSU Scheme",
+  "summary": "Grant of stock options and restricted stock units under ESOP/RSU Scheme",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5f857401-ae59-416d-9fa3-95705fa2e4d0.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "f62bb2d0-0ee8-4208-825a-fec2e2a06df3",
+  "ticker": "TRENT",
+  "at": "2026-11-17T14:06:38+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation of schedule of Analyst / Institutional Investors Meetings",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/68f10113-f839-4891-994e-312e5df5ebf0.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "b7e6c91a-d507-4650-809a-5eb0ece1342f",
+  "ticker": "HDFCBANK",
+  "at": "2026-11-17T13:54:37+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+  "summary": "Allotment of 14,12,278 equity shares pursuant to the exercise of ESOP/RSU.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3c252309-6a76-41db-b704-e8c0e51c8d14.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "efbedf7f-7e7c-4555-98c2-0b8eb4d4dcbe",
+  "ticker": "SRF",
+  "at": "2026-11-17T10:25:26+05:30",
+  "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+  "summary": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for Kama Realty (Delhi) Ltd",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/EFBEDF7F_7E7C_4555_98C2_0B8EB4D4DCBE_102517.pdf",
+  "category": "M&A",
+  "source": "bse"
+ },
+ {
+  "id": "76e655d6-20c8-4493-a535-9660ce0f7f2b",
+  "ticker": "BAJFINANCE",
+  "at": "2026-11-17T08:22:00+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Allotment",
+  "summary": "Outcome of QIP 2026 - Allotment Committee Meeting",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a6d81afd-41a5-496e-b6f3-228f23346f39.pdf",
+  "category": "fund_raise",
+  "source": "bse"
+ },
+ {
   "id": "cf5ed6f2-10c8-4de2-9ff8-dd1c5b76606c",
   "ticker": "BAJFINANCE",
   "at": "2026-11-16T23:51:54+05:30",
@@ -2037,46 +2097,6 @@
   "summary": "Intimation of resignation of Non-Executive Non-Independent Director of the Company",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5f2619df-b01f-4905-978f-00de8477b2f8.pdf",
   "category": "management_change",
-  "source": "bse"
- },
- {
-  "id": "01894d11-473e-4d23-b680-8ff3a6ae8eb7",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-17T22:09:53+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-  "summary": "Audio Recording of Earnings Call in relation to the unaudited standalone and consolidated financial results of the HDFC Bank Limited for the quarter and half-year ended September 30, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/02249387-5ae1-4593-8555-3d1ae1bb4d91.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "37fec54b-607f-4015-aade-97ef1748ae28",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-17T16:16:22+05:30",
-  "title": "Disclosure Under Regulation 30 And Other Applicable Regulations Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
-  "summary": "Disclosure under Regulation 30 and other applicable regulations of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6d9d420a-a6d1-4394-8638-8a978b7e2cc1.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "32a27243-b8f5-4b43-9d8d-920879f571f0",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-17T15:15:38+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-  "summary": "Presentation to be made at the Earnings Call",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/81c8a966-dda9-4600-96d9-79961ddc42d0.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "ae8b989d-e24d-45bf-8958-f610b3c0e66a",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-17T13:56:35+05:30",
-  "title": "Board Meeting Outcome for Approval Of Unaudited Standalone And Consolidated Financial Results Of The Bank For The Quarter And Half-Year Ended September 30, 2026",
-  "summary": "Approval of unaudited standalone and consolidated financial results of the Bank for the quarter and half-year ended September 30, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f5d5fb37-aa66-401c-85d6-58ccd3982828.pdf",
-  "category": "results",
   "source": "bse"
  }
 ]

@@ -2,83 +2,83 @@
  "HDFCBANK": [
   {
    "label": "Dec 2024",
-   "sales": 85040,
+   "sales": 76007,
    "ebitda": null,
-   "otherIncome": 27154,
-   "interest": 46914,
+   "otherIncome": 11454,
+   "interest": 45354,
    "dep": 0,
-   "pbt": 23973,
-   "pat": 18340
+   "pbt": 21847,
+   "pat": 16736
   },
   {
    "label": "Mar 2025",
-   "sales": 86779,
+   "sales": 77460,
    "ebitda": null,
-   "otherIncome": 33489,
-   "interest": 46986,
+   "otherIncome": 12028,
+   "interest": 45394,
    "dep": 0,
-   "pbt": 25573,
-   "pat": 19285
+   "pbt": 23344,
+   "pat": 17616
   },
   {
    "label": "Jun 2025",
-   "sales": 87372,
+   "sales": 77470,
    "ebitda": null,
-   "otherIncome": 45683,
-   "interest": 47709,
+   "otherIncome": 21730,
+   "interest": 46032,
    "dep": 0,
-   "pbt": 20850,
-   "pat": 17090
+   "pbt": 21292,
+   "pat": 18155
   },
   {
    "label": "Sep 2025",
-   "sales": 86994,
+   "sales": 76691,
    "ebitda": null,
-   "otherIncome": 31567,
-   "interest": 46741,
+   "otherIncome": 14350,
+   "interest": 45139,
    "dep": 0,
-   "pbt": 26659,
-   "pat": 20364
+   "pbt": 24423,
+   "pat": 18641
   },
   {
    "label": "Dec 2025",
-   "sales": 87067,
+   "sales": 76751,
    "ebitda": null,
-   "otherIncome": 39860,
-   "interest": 45821,
+   "otherIncome": 13254,
+   "interest": 44136,
    "dep": 0,
-   "pbt": 26961,
-   "pat": 20691
+   "pbt": 24260,
+   "pat": 18654
   },
   {
    "label": "Mar 2026",
-   "sales": 87182,
+   "sales": 76610,
    "ebitda": null,
-   "otherIncome": 29737,
-   "interest": 45220,
+   "otherIncome": 13199,
+   "interest": 43528,
    "dep": 0,
-   "pbt": 27672,
-   "pat": 21074
+   "pbt": 25193,
+   "pat": 19221
   },
   {
    "label": "Jun 2026",
-   "sales": 90575,
+   "sales": 79363,
    "ebitda": null,
-   "otherIncome": 42535,
-   "interest": 47626,
+   "otherIncome": 12822,
+   "interest": 45829,
    "dep": 0,
-   "pbt": 27193,
-   "pat": 20383
+   "pbt": 25108,
+   "pat": 19060
   },
   {
    "label": "Sep 2026",
-   "sales": 95132,
+   "sales": 83427,
    "ebitda": null,
-   "otherIncome": 34227,
-   "interest": 50667,
+   "otherIncome": 13831,
+   "interest": 48807,
    "dep": 0,
-   "pbt": 28663,
-   "pat": 21537
+   "pbt": 25910,
+   "pat": 19510
   }
  ],
  "BAJFINANCE": [
