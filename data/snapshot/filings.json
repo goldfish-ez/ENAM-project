@@ -1,5 +1,55 @@
 [
  {
+  "id": "0ff4564c-efc6-4dec-b9bd-a95c6154159d",
+  "ticker": "CHOLAFIN",
+  "at": "2026-11-18T21:06:56+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+  "summary": "Enclosed the copy of the newspaper advertisement regarding the proposed transfer of shares to IEPFA",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/97de8544-23fa-4e7e-960e-96fafe0dfa0a.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "cdfa4638-23ee-48ae-9a62-cd3f160ef7c9",
+  "ticker": "TITAN",
+  "at": "2026-11-18T20:51:27+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Schedule of Analyst / Institutional Investor Meeting",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9f90e2b0-aa48-48b7-8b0c-df9cecd0bd93.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "65e07a3d-4ec1-41b6-8e93-8f359dd605a8",
+  "ticker": "KPITTECH",
+  "at": "2026-11-18T18:43:12+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+  "summary": "Outcome of Investor conference held on Wednesday, November 18, 2026",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc662964-1403-455d-a7c7-c4f0412e8a21.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "9b4c4b2d-a00f-4941-ad7d-97bcbde9a2f3",
+  "ticker": "PIIND",
+  "at": "2026-11-18T15:46:55+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with UTI Mutual Fund",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ed65f1cf-b15c-420e-a3d1-d80fd988801d.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "7ced7905-f2c7-454a-8328-084df58e9e74",
+  "ticker": "PIIND",
+  "at": "2026-11-18T15:42:12+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Kotak Mahindra Asset Management",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ba2bd8a2-217f-4a0e-8421-b40fbfba9250.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
   "id": "1bd79894-a9bf-4c11-8b49-ec7ae0401b4e",
   "ticker": "SRF",
   "at": "2026-11-17T17:49:46+05:30",
@@ -90,16 +140,6 @@
   "source": "bse"
  },
  {
-  "id": "d51dbd69-b71b-4451-bb1f-2ac9a82ee78d",
-  "ticker": "POLYCAB",
-  "at": "2026-11-16T17:52:59+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f81a8e9b-2133-4827-9a7e-7e82fa7ee92b.pdf",
-  "category": "investor_meetings",
-  "source": "bse"
- },
- {
   "id": "ab98b808-1997-488f-9f33-8fe2a00b3e1d",
   "ticker": "DIXON",
   "at": "2026-11-16T17:43:16+05:30",
@@ -117,16 +157,6 @@
   "summary": "Please find enclosed the credit rating pursuant to regulation 30 of SEBI Listing Regulations 2015.",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4c31e194-fe41-4e54-9862-fdda5efccb7b.pdf",
   "category": "credit_rating",
-  "source": "bse"
- },
- {
-  "id": "8aa2a6aa-2e81-4b3d-b47b-f2b935f405bc",
-  "ticker": "POLYCAB",
-  "at": "2026-11-16T11:25:15+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a5d2906c-bc39-4fc9-8d6c-821f2f1c8789.pdf",
-  "category": "investor_meetings",
   "source": "bse"
  },
  {
@@ -387,16 +417,6 @@
   "summary": "Intimation under Regulation 30 and 44 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0926e958-96d9-4537-ae2b-188dfe3eb1d1.pdf",
   "category": "postal_ballot",
-  "source": "bse"
- },
- {
-  "id": "e3733e07-d1a7-4b44-ade2-d9a6882e69fb",
-  "ticker": "POLYCAB",
-  "at": "2026-11-06T22:02:15+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/72c96165-b9ed-4b62-ac86-80cc440b32ff.pdf",
-  "category": "investor_meetings",
   "source": "bse"
  },
  {
@@ -780,16 +800,6 @@
   "source": "bse"
  },
  {
-  "id": "d348b3d0-dd7f-49b2-a0b1-d95c8697064c",
-  "ticker": "POLYCAB",
-  "at": "2026-11-03T15:55:35+05:30",
-  "title": "Announcement Under Regulation 30 (LODR)-Allotment Of ESOP / ESPS",
-  "summary": "Disclosure of allotment of Equity shares pursuant to Employee Stock Options Scheme, 2018 of Polycab India Limited",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c644005-9bd2-42f5-b61b-556e8c885e2d.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
   "id": "c20a4206-4700-4f69-a5ef-fd9ae96107fd",
   "ticker": "DIXON",
   "at": "2026-11-03T11:22:54+05:30",
@@ -1020,16 +1030,6 @@
   "source": "bse"
  },
  {
-  "id": "0df598a9-08f7-48f3-b53d-f69d332706e2",
-  "ticker": "POLYCAB",
-  "at": "2026-10-30T12:17:22+05:30",
-  "title": "Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)",
-  "summary": "Order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c3d1ba29-6132-47b7-9f3b-79a294e53189.pdf",
-  "category": "litigation",
-  "source": "bse"
- },
- {
   "id": "a56e304a-a629-417a-8882-023924df0b88",
   "ticker": "SUNPHARMA",
   "at": "2026-10-30T08:05:37+05:30",
@@ -1240,16 +1240,6 @@
   "source": "bse"
  },
  {
-  "id": "8285e7a1-d78d-46ff-ab46-fae476882893",
-  "ticker": "POLYCAB",
-  "at": "2026-10-28T17:41:24+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/26cdd582-7e95-4019-88b5-fdff3d5e60e1.pdf",
-  "category": "investor_meetings",
-  "source": "bse"
- },
- {
   "id": "c505d671-ef3d-49b8-af78-47521cbf30f8",
   "ticker": "SRF",
   "at": "2026-10-28T17:32:56+05:30",
@@ -1390,16 +1380,6 @@
   "source": "bse"
  },
  {
-  "id": "ec5b190e-b037-4cb0-91a8-d037cfad8574",
-  "ticker": "POLYCAB",
-  "at": "2026-10-28T10:21:03+05:30",
-  "title": "Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)",
-  "summary": "Update on NCLAT order dated October 27, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ead5c0dc-e464-4e53-8006-b861205174a9.pdf",
-  "category": "litigation",
-  "source": "bse"
- },
- {
   "id": "19d277c1-25e8-493a-9f8d-be8df0f3b012",
   "ticker": "LT",
   "at": "2026-10-27T22:09:20+05:30",
@@ -1417,16 +1397,6 @@
   "summary": "KPIT Technologies Limited has informed the Exchange about the grant of 54,100 Options to the eligible employees covered under the KPIT Technologies Limited - Restricted Stock Unit Plan 2022",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fe0fd731-b8f8-4196-a639-066291bf6ef0.pdf",
   "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "757969fc-1b60-4ab9-884f-258a81e89ee9",
-  "ticker": "POLYCAB",
-  "at": "2026-10-27T19:01:42+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cafe2036-e51b-413a-80cd-65e331d170be.pdf",
-  "category": "investor_meetings",
   "source": "bse"
  },
  {
@@ -1687,16 +1657,6 @@
   "summary": "Transcript of conference call held in respect of Financial Results for the Quarter and Half Year ended 30 September 2026.",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7873abcb-7f97-487d-a474-028b0a26feea.pdf",
   "category": "results",
-  "source": "bse"
- },
- {
-  "id": "f9560b59-3651-4e92-8b18-6f23905f96d5",
-  "ticker": "POLYCAB",
-  "at": "2026-10-23T14:32:26+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a9743040-8809-46d3-85ca-c6ca01bc322a.pdf",
-  "category": "investor_meetings",
   "source": "bse"
  },
  {
@@ -2040,26 +2000,6 @@
   "source": "bse"
  },
  {
-  "id": "dbd52dde-0b59-4e47-aa89-6072c98e60eb",
-  "ticker": "POLYCAB",
-  "at": "2026-10-19T16:38:15+05:30",
-  "title": "Announcement Under Regulation 30 (LODR) - Earnings Call Transcript",
-  "summary": "Submission of Transcript of Earnings call held on October 15, 2026.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "b1d235b4-bfac-4428-bf69-8ba1246d83ae",
-  "ticker": "POLYCAB",
-  "at": "2026-10-19T16:22:22+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9cf5ed4b-10af-4d0f-aa1f-75f22f8e5a75.pdf",
-  "category": "investor_meetings",
-  "source": "bse"
- },
- {
   "id": "f9d57097-1e60-4777-b00f-2d769a05a479",
   "ticker": "TITAN",
   "at": "2026-10-19T15:27:59+05:30",
@@ -2087,16 +2027,6 @@
   "summary": "L&T Commences Initial Activities for New Tashkent International Airport (Ultra-mega*) Project",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3f057a04-479c-4785-9250-f18c7d1ad88a.pdf",
   "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "39411793-001f-4adf-82c6-2fa5985df914",
-  "ticker": "TRENT",
-  "at": "2026-10-18T18:44:51+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Resignation of Director",
-  "summary": "Intimation of resignation of Non-Executive Non-Independent Director of the Company",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5f2619df-b01f-4905-978f-00de8477b2f8.pdf",
-  "category": "management_change",
   "source": "bse"
  }
 ]

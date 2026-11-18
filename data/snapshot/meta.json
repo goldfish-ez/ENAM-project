@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-17T21:51:57.486Z",
+ "asOf": "2026-11-18T21:30:49.638Z",
  "filingsSource": "BSE announcements API",
  "pricesSource": "Yahoo Finance chart API",
  "fundamentalsSource": "screener.in",
@@ -10,5 +10,7 @@
   "costUsd": 0,
   "lifetimeCalls": 0
  },
- "errors": []
+ "errors": [
+  "bse POLYCAB: BSE 542652 400"
+ ]
 }
