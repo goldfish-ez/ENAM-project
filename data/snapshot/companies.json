@@ -1,92 +1,92 @@
 [
  {
   "ticker": "HDFCBANK",
-  "price": 808,
-  "mcap": 1247284,
-  "priceAsOf": "2026-11-18"
+  "price": 822,
+  "mcap": 1268352,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "BAJFINANCE",
-  "price": 1094,
-  "mcap": 693512,
-  "priceAsOf": "2026-11-18"
+  "price": 1093,
+  "mcap": 692878,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "CHOLAFIN",
   "price": 1875,
   "mcap": 160806,
-  "priceAsOf": "2026-11-18"
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "TITAN",
-  "price": 4648,
-  "mcap": 412652,
-  "priceAsOf": "2026-11-18"
+  "price": 4700,
+  "mcap": 417260,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "TRENT",
-  "price": 3190,
-  "mcap": 170101,
-  "priceAsOf": "2026-11-18"
+  "price": 3225,
+  "mcap": 171967,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "ASIANPAINT",
-  "price": 2580,
-  "mcap": 247502,
-  "priceAsOf": "2026-11-18"
+  "price": 2595,
+  "mcap": 248912,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "DIXON",
-  "price": 12615,
-  "mcap": 77214,
-  "priceAsOf": "2026-11-18"
+  "price": 13054,
+  "mcap": 79901,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "PIIND",
-  "price": 1624,
-  "mcap": 24639,
-  "priceAsOf": "2026-11-18"
+  "price": 1630,
+  "mcap": 24730,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "SRF",
-  "price": 2445,
-  "mcap": 72476,
-  "priceAsOf": "2026-11-18"
+  "price": 2514,
+  "mcap": 74518,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "POLYCAB",
-  "price": 7308,
-  "mcap": 110131,
-  "priceAsOf": "2026-11-18"
+  "price": 7550,
+  "mcap": 113786,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "PERSISTENT",
-  "price": 5857,
-  "mcap": 97129,
-  "priceAsOf": "2026-11-18"
+  "price": 5880,
+  "mcap": 97510,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "KPITTECH",
   "price": 522,
-  "mcap": 14303,
-  "priceAsOf": "2026-11-18"
+  "mcap": 14324,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "SUNPHARMA",
-  "price": 1872,
-  "mcap": 449036,
-  "priceAsOf": "2026-11-18"
+  "price": 1900,
+  "mcap": 455874,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "LT",
-  "price": 4159,
-  "mcap": 572244,
-  "priceAsOf": "2026-11-18"
+  "price": 4211,
+  "mcap": 579398,
+  "priceAsOf": "2026-11-19"
  },
  {
   "ticker": "ETERNAL",
-  "price": 366,
-  "mcap": 353203,
-  "priceAsOf": "2026-11-18"
+  "price": 367,
+  "mcap": 354023,
+  "priceAsOf": "2026-11-19"
  }
 ]

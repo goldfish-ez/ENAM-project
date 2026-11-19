@@ -1,5 +1,45 @@
 [
  {
+  "id": "b2ef5417-14fd-4104-996c-b63ff71a7a82",
+  "ticker": "PIIND",
+  "at": "2026-11-19T17:53:09+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with SBI Mutual Fund",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/80b84fb5-4f79-40d8-bdb8-70a5b9f380b1.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "f5ae9637-7919-4822-a2c6-42bd5717c473",
+  "ticker": "CHOLAFIN",
+  "at": "2026-11-19T17:24:20+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
+  "summary": "Information on allotment of 40,239 equity shares pursuant to exercise of Employee Stock Options.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c24c553c-3bcb-4b69-ac1d-04da559356e7.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "f7e1968f-b7ab-4d4f-a0e1-575fd11c10c0",
+  "ticker": "PIIND",
+  "at": "2026-11-19T15:23:54+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with HDFC Mutual Fund",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/dc268a2f-b900-4e7b-ac33-5a691f7ecdbd.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "493fedc2-aa90-45f8-8de7-eba9d82c6925",
+  "ticker": "SRF",
+  "at": "2026-11-19T09:20:24+05:30",
+  "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011",
+  "summary": "The Exchange has received the disclosure under Regulation 29(2) of SEBI (Substantial Acquisition of Shares & Takeovers) Regulations, 2011 for KAMA Realty (Delhi) Ltd",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/493FEDC2_AA90_45F8_8DE7_EBA9D82C6925_092020.pdf",
+  "category": "M&A",
+  "source": "bse"
+ },
+ {
   "id": "0ff4564c-efc6-4dec-b9bd-a95c6154159d",
   "ticker": "CHOLAFIN",
   "at": "2026-11-18T21:06:56+05:30",
@@ -140,6 +180,16 @@
   "source": "bse"
  },
  {
+  "id": "d51dbd69-b71b-4451-bb1f-2ac9a82ee78d",
+  "ticker": "POLYCAB",
+  "at": "2026-11-16T17:52:59+05:30",
+  "title": "Intimation",
+  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f81a8e9b-2133-4827-9a7e-7e82fa7ee92b.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
   "id": "ab98b808-1997-488f-9f33-8fe2a00b3e1d",
   "ticker": "DIXON",
   "at": "2026-11-16T17:43:16+05:30",
@@ -157,6 +207,16 @@
   "summary": "Please find enclosed the credit rating pursuant to regulation 30 of SEBI Listing Regulations 2015.",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4c31e194-fe41-4e54-9862-fdda5efccb7b.pdf",
   "category": "credit_rating",
+  "source": "bse"
+ },
+ {
+  "id": "8aa2a6aa-2e81-4b3d-b47b-f2b935f405bc",
+  "ticker": "POLYCAB",
+  "at": "2026-11-16T11:25:15+05:30",
+  "title": "Intimation",
+  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a5d2906c-bc39-4fc9-8d6c-821f2f1c8789.pdf",
+  "category": "investor_meetings",
   "source": "bse"
  },
  {
@@ -417,6 +477,16 @@
   "summary": "Intimation under Regulation 30 and 44 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0926e958-96d9-4537-ae2b-188dfe3eb1d1.pdf",
   "category": "postal_ballot",
+  "source": "bse"
+ },
+ {
+  "id": "e3733e07-d1a7-4b44-ade2-d9a6882e69fb",
+  "ticker": "POLYCAB",
+  "at": "2026-11-06T22:02:15+05:30",
+  "title": "Intimation",
+  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/72c96165-b9ed-4b62-ac86-80cc440b32ff.pdf",
+  "category": "investor_meetings",
   "source": "bse"
  },
  {
@@ -800,6 +870,16 @@
   "source": "bse"
  },
  {
+  "id": "d348b3d0-dd7f-49b2-a0b1-d95c8697064c",
+  "ticker": "POLYCAB",
+  "at": "2026-11-03T15:55:35+05:30",
+  "title": "Announcement Under Regulation 30 (LODR)-Allotment Of ESOP / ESPS",
+  "summary": "Disclosure of allotment of Equity shares pursuant to Employee Stock Options Scheme, 2018 of Polycab India Limited",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6c644005-9bd2-42f5-b61b-556e8c885e2d.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
   "id": "c20a4206-4700-4f69-a5ef-fd9ae96107fd",
   "ticker": "DIXON",
   "at": "2026-11-03T11:22:54+05:30",
@@ -1030,6 +1110,16 @@
   "source": "bse"
  },
  {
+  "id": "0df598a9-08f7-48f3-b53d-f69d332706e2",
+  "ticker": "POLYCAB",
+  "at": "2026-10-30T12:17:22+05:30",
+  "title": "Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)",
+  "summary": "Order passed by NCLAT setting aside the order of NCLT Ahmedabad bench dated October 07, 2026",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c3d1ba29-6132-47b7-9f3b-79a294e53189.pdf",
+  "category": "litigation",
+  "source": "bse"
+ },
+ {
   "id": "a56e304a-a629-417a-8882-023924df0b88",
   "ticker": "SUNPHARMA",
   "at": "2026-10-30T08:05:37+05:30",
@@ -1240,6 +1330,16 @@
   "source": "bse"
  },
  {
+  "id": "8285e7a1-d78d-46ff-ab46-fae476882893",
+  "ticker": "POLYCAB",
+  "at": "2026-10-28T17:41:24+05:30",
+  "title": "Intimation",
+  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/26cdd582-7e95-4019-88b5-fdff3d5e60e1.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
   "id": "c505d671-ef3d-49b8-af78-47521cbf30f8",
   "ticker": "SRF",
   "at": "2026-10-28T17:32:56+05:30",
@@ -1380,6 +1480,16 @@
   "source": "bse"
  },
  {
+  "id": "ec5b190e-b037-4cb0-91a8-d037cfad8574",
+  "ticker": "POLYCAB",
+  "at": "2026-10-28T10:21:03+05:30",
+  "title": "Corporate Insolvency Resolution Process (CIRP)-Updates - Corporate Insolvency Resolution Process  (CIRP)",
+  "summary": "Update on NCLAT order dated October 27, 2026",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ead5c0dc-e464-4e53-8006-b861205174a9.pdf",
+  "category": "litigation",
+  "source": "bse"
+ },
+ {
   "id": "19d277c1-25e8-493a-9f8d-be8df0f3b012",
   "ticker": "LT",
   "at": "2026-10-27T22:09:20+05:30",
@@ -1397,6 +1507,16 @@
   "summary": "KPIT Technologies Limited has informed the Exchange about the grant of 54,100 Options to the eligible employees covered under the KPIT Technologies Limited - Restricted Stock Unit Plan 2022",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fe0fd731-b8f8-4196-a639-066291bf6ef0.pdf",
   "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "757969fc-1b60-4ab9-884f-258a81e89ee9",
+  "ticker": "POLYCAB",
+  "at": "2026-10-27T19:01:42+05:30",
+  "title": "Intimation",
+  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cafe2036-e51b-413a-80cd-65e331d170be.pdf",
+  "category": "investor_meetings",
   "source": "bse"
  },
  {
@@ -1657,6 +1777,16 @@
   "summary": "Transcript of conference call held in respect of Financial Results for the Quarter and Half Year ended 30 September 2026.",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7873abcb-7f97-487d-a474-028b0a26feea.pdf",
   "category": "results",
+  "source": "bse"
+ },
+ {
+  "id": "f9560b59-3651-4e92-8b18-6f23905f96d5",
+  "ticker": "POLYCAB",
+  "at": "2026-10-23T14:32:26+05:30",
+  "title": "Intimation",
+  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a9743040-8809-46d3-85ca-c6ca01bc322a.pdf",
+  "category": "investor_meetings",
   "source": "bse"
  },
  {
@@ -1927,106 +2057,6 @@
   "summary": "Titan Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve the unaudited financial results ....",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e9e04a61-ebc4-47ec-868d-20d8a3c5d631.pdf",
   "category": "results",
-  "source": "bse"
- },
- {
-  "id": "38bd2591-6085-4377-8935-62a6fffdd756",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-19T21:05:09+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-  "summary": "The audio recording of the conference call has been hosted on the website of the Company and is available at 'QUARTERLY EARNINGS CALL' drop down https://www.aboutbajajfinserv.com/finan ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/adefbbb0-caa9-46a5-91aa-41c5359a7271.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "8ffbc524-5035-497c-8f59-705bd411f278",
-  "ticker": "PIIND",
-  "at": "2026-10-19T18:43:09+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Updates on Acquisition",
-  "summary": "Update on Incorporation of a Wholly Owned Subsidiary of the Company namely 'PI Foundation' under section 8 of the Companies Act, 2013.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5e6e3c81-1286-46a0-a923-7146caa1dedf.pdf",
-  "category": "M&A",
-  "source": "bse"
- },
- {
-  "id": "9817a9b7-6de3-4bfa-8e80-ac4cf87d1d6a",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-19T18:18:41+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Change in Management",
-  "summary": "The Board of Directors at their meeting held today, i.e., 19 October 2026, approved the re-appointment of Prashant Verma as Chief Information Security Officer (CISO) as per RBI Guidelines, ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/eb4bfa8c-5285-4b6f-86c3-852bf82c8015.pdf",
-  "category": "management_change",
-  "source": "bse"
- },
- {
-  "id": "913014a6-a273-4cfc-8a62-a2fccb69a061",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-19T18:03:33+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Issue of Securities",
-  "summary": "The Board of Directors of the Company, at their meeting held today, i.e., 19 October 2026, approved, inter alia, issue of 49,00,737 equity shares of face value of Re. 1 at the respective ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fda5e9e1-3aa9-4ccc-837a-d45817ef7360.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "35bf242b-58db-4820-9ded-2d759a71d9f8",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-19T17:39:55+05:30",
-  "title": "Unaudited Standalone And Consolidated Financial Results For The Quarter And Half Year Ended 30 September 2026",
-  "summary": "Unaudited standalone and consolidated financial results for the quarter and half year ended 30 September 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/229c460f-9cda-4732-972f-847519b40426.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "c862464b-817a-43bb-b588-6fc0f0f78eb5",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-19T17:27:30+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
-  "summary": "Investor Presentation for the quarter ended 30 September 2026.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e7c0f169-e396-4a7d-a57d-b1f7c47f6290.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "bef4c126-a01e-4636-9c8b-e50fc1a82879",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-19T17:19:48+05:30",
-  "title": "Board Meeting Outcome for Outcome Of Board Meeting Held On 19 October 2026",
-  "summary": "The Board Meeting today commenced at 16.15 Hrs. IST and the financial results for the quarter and Half year ended 30 September 2026 were approved at 16:55 Hrs. IST. The proceedings of the ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0477f65f-4dea-40cf-a6bf-67088c43b679.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "f9d57097-1e60-4777-b00f-2d769a05a479",
-  "ticker": "TITAN",
-  "at": "2026-10-19T15:27:59+05:30",
-  "title": "Intimation of Repayment of Commercial Paper (CP)",
-  "summary": "Redemption of Commercial Paper",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/631d73dc-7695-4952-8082-d9d34d4e0827.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "4831d1f0-2bfb-48ac-84dc-0651e3e483ce",
-  "ticker": "TRENT",
-  "at": "2026-10-19T11:07:58+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
-  "summary": "Notice of Special Window for re-lodgement of transfer requests of physical shares",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/096b4491-68dc-4163-8b20-3621448309db.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "8a57b0a9-8570-41ad-90a3-970cbc391c7b",
-  "ticker": "LT",
-  "at": "2026-10-19T10:13:18+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
-  "summary": "L&T Commences Initial Activities for New Tashkent International Airport (Ultra-mega*) Project",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3f057a04-479c-4785-9250-f18c7d1ad88a.pdf",
-  "category": "unclassified",
   "source": "bse"
  }
 ]
