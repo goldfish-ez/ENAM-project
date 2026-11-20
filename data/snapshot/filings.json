@@ -1,5 +1,75 @@
 [
  {
+  "id": "be1f2c18-64ee-47ac-a4cf-e2ff4407ccbe",
+  "ticker": "SRF",
+  "at": "2026-11-20T23:06:33+05:30",
+  "title": "Disclosure Under Regulation 30 Of SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015",
+  "summary": "Disclosure under Regulation 30 of SEBI (LODR) Regulations 2015",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/101fd5b4-e62f-4e1b-9679-0c24c72aa73d.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "5e7d5b19-e323-4516-965e-5e2a3770e4b8",
+  "ticker": "HDFCBANK",
+  "at": "2026-11-20T20:40:29+05:30",
+  "title": "Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot",
+  "summary": "Intimation under Regulation 30 and 44 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8359e2b1-9d38-4a6a-861f-81104a158350.pdf",
+  "category": "postal_ballot",
+  "source": "bse"
+ },
+ {
+  "id": "9d739a30-2fe8-40dc-bd82-5ea7e49478d3",
+  "ticker": "TRENT",
+  "at": "2026-11-20T18:03:16+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation of schedule of Analyst / Institutional Investors Meetings",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/095a423a-3e97-4ac3-a292-08f80bdbf1f5.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "5b5b48ab-1f2b-4880-a258-be822f202efd",
+  "ticker": "TITAN",
+  "at": "2026-11-20T17:34:26+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Schedule of Analyst / Institutional Investor Meeting",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d70fe384-bfdc-4970-ad4a-0f13a9338ce8.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "9f3ae669-22c7-4432-9e42-8afb5e2667e0",
+  "ticker": "TITAN",
+  "at": "2026-11-20T17:30:15+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Schedule of Analyst / Institutional Investor Meeting",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8529d1fe-52f9-4f61-9391-cca43d8f9c31.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "57535879-957d-4e76-8623-0def67cb7df1",
+  "ticker": "DIXON",
+  "at": "2026-11-20T12:13:54+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+  "summary": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A and Part A of Schedule III of the said ....",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/68d52f83-69e0-4d96-9cc5-c772d7503218.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "9e099330-3966-4b88-b2c3-8986010cd80c",
+  "ticker": "ASIANPAINT",
+  "at": "2026-11-20T11:18:40+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Trading Plan under SEBI (PIT) Regulations, 2015",
+  "summary": "Pursuant to Regulation 5(5) of SEBI (Prohibition of Insider Trading) Regulations, 2015 (SEBI PIT Regulations) read with Asian Paints Limited - Code of Conduct to Regulate, Monitor and Report ....",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b95cae6b-fb93-4750-b9d7-d9189b64a54b.pdf",
+  "category": "insider_trading",
+  "source": "bse"
+ },
+ {
   "id": "b2ef5417-14fd-4104-996c-b63ff71a7a82",
   "ticker": "PIIND",
   "at": "2026-11-19T17:53:09+05:30",
@@ -2037,26 +2107,6 @@
   "summary": "L&T Wins Orders (Large*) in New Delhi and Andhra Pradesh",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/42761949-c90f-4c0c-8fad-6d79416f15d2.pdf",
   "category": "press_release",
-  "source": "bse"
- },
- {
-  "id": "92bfa9a7-469a-4360-af1e-71de13927b80",
-  "ticker": "SUNPHARMA",
-  "at": "2026-10-20T17:33:54+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-  "summary": "Press Release",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9a434af1-62a4-4822-a754-fa547098def0.pdf",
-  "category": "press_release",
-  "source": "bse"
- },
- {
-  "id": "03232605-bb2d-402d-9b57-9548c2cfa942",
-  "ticker": "TITAN",
-  "at": "2026-10-20T14:42:56+05:30",
-  "title": "Board Meeting Intimation for Consider And Approve The Unaudited Financial Results For The Quarter Ended 30Th September 2026",
-  "summary": "Titan Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 05/11/2026 ,inter alia, to consider and approve the unaudited financial results ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e9e04a61-ebc4-47ec-868d-20d8a3c5d631.pdf",
-  "category": "results",
   "source": "bse"
  }
 ]
