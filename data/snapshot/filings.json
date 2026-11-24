@@ -1,5 +1,95 @@
 [
  {
+  "id": "4fd407d2-9ee2-4f92-bbb6-3099de69eb30",
+  "ticker": "SUNPHARMA",
+  "at": "2026-11-23T20:35:26+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+  "summary": "International Credit Ratings",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/56eb8f42-7196-433c-af67-ea52b2a7bd97.pdf",
+  "category": "credit_rating",
+  "source": "bse"
+ },
+ {
+  "id": "9f22a25f-df75-4b64-adf9-146531bd274e",
+  "ticker": "DIXON",
+  "at": "2026-11-23T17:56:31+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+  "summary": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A and Part A of Schedule III of the said ....",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a7322e4c-db56-440d-b959-598efb0d2ad4.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "522f4ee6-cf07-4f8f-8c9c-49db68c888b4",
+  "ticker": "ASIANPAINT",
+  "at": "2026-11-23T17:41:39+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Find enclosed communication with respect to the institutional investor meeting to be held on 27th November 2026.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f08028ba-34c7-421f-b1a6-d861d4bd9700.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "0ba4ecdf-82e8-4d7c-b1a9-ee0ecfeaec6e",
+  "ticker": "TITAN",
+  "at": "2026-11-23T16:56:51+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+  "summary": "Ratings update from ICRA Ltd.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a62cc35a-de57-4529-a9bf-28828e95882c.pdf",
+  "category": "credit_rating",
+  "source": "bse"
+ },
+ {
+  "id": "63dfbd65-69c8-448f-95fa-18a03bf2b6d9",
+  "ticker": "KPITTECH",
+  "at": "2026-11-23T15:43:39+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation of the investor / analyst conference scheduled on Friday, November 27, 2026",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/24d59434-af12-4d7e-8c5f-f4d4a92c4905.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "414edffa-5b30-4aa0-ab6b-a1e1948edf33",
+  "ticker": "LT",
+  "at": "2026-11-23T09:30:55+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
+  "summary": "Larsen & Toubro Secures (Large*) Order for Deploying AI Cluster",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6961c994-01be-4b8d-85ac-5c857530ea43.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "f17ccb65-6885-4a42-8559-0d478fb6e481",
+  "ticker": "PERSISTENT",
+  "at": "2026-11-23T07:45:59+05:30",
+  "title": "Company Statement",
+  "summary": "The Company Statement dated November 23, 2026, is as enclosed.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0be22638-c6d1-4e15-bd51-01e7be54ddcb.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "8e1db404-6eac-478f-b1cb-11715a7205fc",
+  "ticker": "DIXON",
+  "at": "2026-11-21T20:29:50+05:30",
+  "title": "Announcement Under Regulation 30 Of SEBI LODR-Update",
+  "summary": "Announcement under Regulation 30 of SEBI LODR- Update on Asset Purchase Agreement executed between Dixon Technologies (India) Limited and Vimal Plast (India) Private Limited",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/20a44726-e8b7-4a23-b0e8-ab8638aff9f7.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "54c8c687-eb9e-457d-acf8-744ae603f225",
+  "ticker": "SUNPHARMA",
+  "at": "2026-11-21T12:46:52+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+  "summary": "Newspaper Advertisements about opening of Special Window for transfer of physical shares",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1fd338f2-022f-47dc-b7a6-504d659ec203.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
   "id": "be1f2c18-64ee-47ac-a4cf-e2ff4407ccbe",
   "ticker": "SRF",
   "at": "2026-11-20T23:06:33+05:30",
@@ -1737,376 +1827,6 @@
   "summary": "Allotment of Non-convertible securities (NCDs) on Private Placement basis",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2f44a1be-85a8-4545-a86e-71a27b7b7f15.pdf",
   "category": "fund_raise",
-  "source": "bse"
- },
- {
-  "id": "b07f2ce1-57f5-4a48-9e1b-b8b20736f34e",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-24T22:24:00+05:30",
-  "title": "Grant Of Stock Options Under Employee Stock Option Scheme",
-  "summary": "Grant of stock options under Employee Stock Option Scheme",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9e0bab4c-fcd5-45ce-8a91-a3dcf5dac9e9.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "fd8f06cf-fd65-4a93-944c-e6463ce1eda6",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-23T22:50:38+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-  "summary": "Transcript of Earnings Call in relation to the unaudited standalone and consolidated financial results of the HDFC Bank Limited for the quarter and half-year ended September 30, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "cf7dff3e-65f6-4857-9129-8234b8197245",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-23T20:45:10+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-  "summary": "The Transcript of the investor/analyst call held on Thursday, October 15, 2026, is as enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "d3016b7e-4efb-458a-95ee-01a85d813dc5",
-  "ticker": "TRENT",
-  "at": "2026-10-23T19:49:14+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Diversification / Disinvestment",
-  "summary": "Nahar Retail Trading Services Private Limited, a wholly owned subsidiary of the Company, has entered into a binding term sheet dated 22nd October 2026.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cf9c8eec-654a-4016-acf5-b7160985dc78.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "aba6faa5-b86d-471a-b189-0356b7bfc513",
-  "ticker": "TITAN",
-  "at": "2026-10-23T19:47:16+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-  "summary": "Earnings call for Q2 and half year ended FY 2026-27",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f317d625-e7e4-4155-bf66-a43c7def32b6.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "618d8e5c-8cf3-417f-b2e0-e5bf9310235c",
-  "ticker": "DIXON",
-  "at": "2026-10-23T18:10:44+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-  "summary": "We wish to inform you that Dixon Technologies (India) Limited ('Company') has arranged a Conference Call for the Un-Audited Financial Results (Standalone and Consolidated) of the Company ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4260af0d-9e97-44f0-a19a-04b0b0ddb4e5.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "7b023dbb-c6c3-4850-a772-82e5a94a13e4",
-  "ticker": "DIXON",
-  "at": "2026-10-23T18:04:16+05:30",
-  "title": "Board Meeting Intimation for Inter-Alia, Consideration And Approval Of Un-Audited Financial Results (Standalone & Consolidated) Of The Company For The Quarter And Half Year Ended 30Th September, 2026",
-  "summary": "Dixon Technologies (India) Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 30/10/2026 ,inter alia, to consider and approve the Un-Audited Financial ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4ac4537e-4a64-4682-a4c5-5255ba8895cf.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "ce77353e-4987-4ce8-b231-170f5e9944c4",
-  "ticker": "SUNPHARMA",
-  "at": "2026-10-23T18:01:34+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-  "summary": "Press Release",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/46b44110-a538-4759-8351-04d4731da2ae.pdf",
-  "category": "press_release",
-  "source": "bse"
- },
- {
-  "id": "cc5f4786-34b8-4078-bd57-89b3ad960f64",
-  "ticker": "TRENT",
-  "at": "2026-10-23T16:35:03+05:30",
-  "title": "Reminder Letter For Transfer Of Equity Shares To The Investor Education And Protection Fund ('IEPF')",
-  "summary": "Reminder letter for transfer of equity shares to the Investor Education and Protection Fund (''IEPF'')",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/aeaf0a5d-3d57-41ef-87d1-a10268a57932.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "8658cbc1-2e47-4362-ba13-114387eb198e",
-  "ticker": "SRF",
-  "at": "2026-10-23T14:51:33+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
-  "summary": "Newspaper Clippings of Notice- Transfer of Shares to IEPF",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5b3245b8-0ee2-4344-84f0-a46d0d0780c3.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "3edbe0c3-f3ed-4804-92a8-a4bc45e22fb6",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-23T14:45:33+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-  "summary": "Transcript of conference call held in respect of Financial Results for the Quarter and Half Year ended 30 September 2026.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7873abcb-7f97-487d-a474-028b0a26feea.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "f9560b59-3651-4e92-8b18-6f23905f96d5",
-  "ticker": "POLYCAB",
-  "at": "2026-10-23T14:32:26+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a9743040-8809-46d3-85ca-c6ca01bc322a.pdf",
-  "category": "investor_meetings",
-  "source": "bse"
- },
- {
-  "id": "3dbcfb55-1bb7-4987-a427-1be66b13b9de",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-22T23:06:18+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
-  "summary": "The intimation regarding the receipt of Credit Rating from M/s. ICRA Limited, is as enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d500e04f-fe02-4b5c-923a-0275b18f6044.pdf",
-  "category": "credit_rating",
-  "source": "bse"
- },
- {
-  "id": "bd0fa43b-c30d-441d-a989-39975b034085",
-  "ticker": "CHOLAFIN",
-  "at": "2026-10-22T19:05:32+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-  "summary": "Intimation on Schedule of Investors Meeting for the quarter ended 30-Sep-2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/124142cb-d641-4772-965b-29a886a6ae1e.pdf",
-  "category": "investor_meetings",
-  "source": "bse"
- },
- {
-  "id": "434b2399-b7a7-4d12-a655-996dddcf6a75",
-  "ticker": "CHOLAFIN",
-  "at": "2026-10-22T18:48:32+05:30",
-  "title": "Update on board meeting",
-  "summary": "Cholamandalam Investment And Finance Company Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 28/10/2026 ,inter alia, to consider and approve ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/eca72ae0-aac9-4a9f-bbf0-d2f821b0b8d1.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "2435aaf2-cb36-4b0c-b3fe-07e158c8d51c",
-  "ticker": "SRF",
-  "at": "2026-10-22T15:46:09+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-  "summary": "Audio recording of the Earnings Call held on 22nd October 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ed3a5ff4-8c04-40f2-9ddd-ec629c3cef95.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "4ce96747-5ad5-4ee6-bb44-a633bcc6f21f",
-  "ticker": "SRF",
-  "at": "2026-10-22T14:08:01+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
-  "summary": "Newspaper Publications",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/72321056-a051-4e67-a6f0-1471aa748c78.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "0728c182-d4b7-4e7c-894b-3e1535ef9f37",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-22T13:51:14+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
-  "summary": "Allotment of 91,38,522 equity shares pursuant to exercise of ESOP/RSU",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/536a781d-6af5-4dde-840e-5e1420f5157f.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "3fda89e2-f430-4457-85ab-78d178775062",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-22T11:49:06+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
-  "summary": "Newspaper publication confirming dispatch of postal ballot Notice",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/19d4c3c3-df05-444a-adfb-4edcffa3f847.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "bc45251b-4d22-4e17-a561-ec4de2c7f468",
-  "ticker": "SRF",
-  "at": "2026-10-22T09:42:34+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
-  "summary": "Investor Presentation",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4bee2b6e-7ffa-4632-a371-ecd145b00ffa.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "ea10492d-a916-49a2-8c21-2438b7dad808",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-21T20:52:55+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Credit Rating",
-  "summary": "The Intimation regarding the receipt of Credit Rating from M/s. CRISIL Ratings Limited, is as enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/439fef91-1dfa-4639-944f-eccbddfae1ff.pdf",
-  "category": "credit_rating",
-  "source": "bse"
- },
- {
-  "id": "5025e69b-c76d-417c-bc8f-43a172b48b48",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-21T20:02:26+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Meeting Updates",
-  "summary": "The update on the Outcome of the Special Committee of the Board of Directors dated October 21, 2026, is as enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/34d0f640-5c7b-4bfa-b042-6b4fbe63daa0.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "5f00980e-357d-40e2-a34d-2e8f104df277",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-21T19:21:01+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Issue of Securities",
-  "summary": "The outcome of the Committee Meeting in relation to the QIP issue opening dated October 21, 2026, is as enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f7cde952-83d0-475d-b216-02af2204013a.pdf",
-  "category": "fund_raise",
-  "source": "bse"
- },
- {
-  "id": "998906f5-4298-4498-8977-a63f685ad332",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-21T19:17:49+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Meeting Updates",
-  "summary": "The outcome of the Committee Meeting held on October 21, 2026, is as enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/c4c190cd-e98b-41fe-add8-8a367bb3917b.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "aac2d04d-73a4-41a5-a754-134bc50fa2d4",
-  "ticker": "DIXON",
-  "at": "2026-10-21T18:40:52+05:30",
-  "title": "Announcement Under Regulation 30 Of SEBI LODR- Giving Of Guarantees Or Indemnity Or Becoming A Surety For Any Third Party",
-  "summary": "Announcement under Regulation 30 of SEBI LODR- Giving of Guarantees or indemnity or becoming a surety for any third party.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/243de729-cff5-4203-a58d-cb59adb578b5.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "1f27e571-141f-4809-b6f1-f41316b785e7",
-  "ticker": "ETERNAL",
-  "at": "2026-10-21T17:35:14+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Monitoring Agency Report",
-  "summary": "Eternal Limited has filed with exchange monitoring agency report for the quarter ended September 30, 2026.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0c09b689-969e-4ab5-88db-ab3fa4ea814a.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "1ae9eddd-5d2d-4ab2-955d-16f5c7bfa44a",
-  "ticker": "KPITTECH",
-  "at": "2026-10-21T17:28:50+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-  "summary": "Post Earnings Conference Call of the Company is scheduled on Wednesday, October 28, 2026, at 17:30 Hrs. (IST). The details of the said call are enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/7b116e2d-3f77-43c4-85d7-b4a4077b43ba.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "15f7c96b-d24a-46f7-9e04-c71db3f54f4c",
-  "ticker": "ETERNAL",
-  "at": "2026-10-21T15:37:20+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Restructuring",
-  "summary": "Eternal Limited has informed the exchange regarding proposed restructuring, acquisition and divestment.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0daf632-ab45-41ef-bbc5-bfc655056cbb.pdf",
-  "category": "M&A",
-  "source": "bse"
- },
- {
-  "id": "4f43fab8-8509-4b73-a036-8f1267c8a4b0",
-  "ticker": "ETERNAL",
-  "at": "2026-10-21T15:31:19+05:30",
-  "title": "Results For The Quarter And Half Year Ended September 30, 2026",
-  "summary": "Eternal Limited has filed with exchange un-audited financial results (standalone & consolidated) for the quarter and half year ended September 30, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5e5ee67c-fdd2-46d5-9390-e8e4a018c5b2.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "0901dc87-4137-4fd5-9433-e03acdfdb125",
-  "ticker": "ETERNAL",
-  "at": "2026-10-21T15:23:59+05:30",
-  "title": "Shareholders Letter",
-  "summary": "Eternal limited has filed with exchange copy of shareholders letter dated October 21, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cbfbd146-6a68-43d6-9cbc-dfb7d0f50fd0.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "111bace2-2b0a-4176-a3cb-d133c0a86645",
-  "ticker": "ETERNAL",
-  "at": "2026-10-21T15:22:22+05:30",
-  "title": "Board Meeting Outcome for Outcome Of Board Meeting",
-  "summary": "Outcome of board meeting dated October 21, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/aa6e31e0-6f77-4b22-a9dd-591c7c4a7d6d.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "6dc63e39-8c86-454a-b15a-51529cda6f30",
-  "ticker": "SRF",
-  "at": "2026-10-21T15:13:43+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release",
-  "summary": "Press Release",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6d566d1e-eea9-43ee-9799-94864693d58f.pdf",
-  "category": "press_release",
-  "source": "bse"
- },
- {
-  "id": "cb9bafc3-efae-4563-b18a-d67b4b81a256",
-  "ticker": "SRF",
-  "at": "2026-10-21T15:01:50+05:30",
-  "title": "Capital Expenditure Proposal Approved By The Board",
-  "summary": "Capital Expenditure proposal approved by the Board",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4e416e65-0381-4cc9-abba-cd64eb103832.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "bfc90c2b-450e-44ca-bcee-f5dd1521f4b4",
-  "ticker": "SRF",
-  "at": "2026-10-21T14:54:15+05:30",
-  "title": "Unaudited Financial Results For The Quarter And Half Year Ended 30.09.2026 Alongwith Limited Review Report For The Quarter And Half Year Ended 30.09.2026",
-  "summary": "Financial Results for the quarter and half year ended 30.09.2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/abe73fb0-188a-438e-9e56-a7a09523d148.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "45a6d9d4-9a06-4b97-ab17-780a8d0cf7d4",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-21T12:22:21+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Allotment",
-  "summary": "Allotment of Secured Redeemable Non-Convertible Debentures on Private Placement Basis.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5bb76cad-5a8c-42c8-8aa3-6d81edf31bf6.pdf",
-  "category": "fund_raise",
-  "source": "bse"
- },
- {
-  "id": "dd194e0a-4c4d-4692-9778-4edd64a1a93e",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-21T11:46:53+05:30",
-  "title": "Shareholder Meeting / Postal Ballot-Notice of Postal Ballot",
-  "summary": "Notice of postal ballot",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/06533910-f3e7-4bae-80e9-34ecd08bbafc.pdf",
-  "category": "postal_ballot",
-  "source": "bse"
- },
- {
-  "id": "aa2ff20b-8cd0-4341-bc00-987cf8b20788",
-  "ticker": "LT",
-  "at": "2026-10-21T09:45:02+05:30",
-  "title": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
-  "summary": "L&T Wins Orders (Large*) in New Delhi and Andhra Pradesh",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/42761949-c90f-4c0c-8fad-6d79416f15d2.pdf",
-  "category": "press_release",
   "source": "bse"
  }
 ]
