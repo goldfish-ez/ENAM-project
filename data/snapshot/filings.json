@@ -1,5 +1,85 @@
 [
  {
+  "id": "96f61525-8229-48c8-b4a3-bd406e4dd583",
+  "ticker": "PIIND",
+  "at": "2026-11-24T17:47:17+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Mirae Asset Investment Managers (India)",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/421aa695-173b-4e6f-93e7-1a9e0b6ced17.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "23ad7531-f760-446c-a30f-cb14b474b7c3",
+  "ticker": "LT",
+  "at": "2026-11-24T17:29:39+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Schedule of Analyst / Institutional Investors'' Meet",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/18713bc5-f911-4144-abba-ce951a62052b.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "4eef5cc4-b266-4040-9edd-44e07e70dd71",
+  "ticker": "DIXON",
+  "at": "2026-11-24T15:04:39+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Change in Management",
+  "summary": "Announcement under Regulation 30 of SEBI LODR- Change in Management (Appointment of Director)",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b67aeb99-3c59-4400-afb3-6fa878acaef4.pdf",
+  "category": "management_change",
+  "source": "bse"
+ },
+ {
+  "id": "67e18bfb-cb6a-4a41-8aca-1e179feb1ed7",
+  "ticker": "ASIANPAINT",
+  "at": "2026-11-24T14:21:48+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "This is to inform you that the management representatives would be meeting the members of the Promoter(s) & Promoter(s) Group on Friday, 27th November 2026, 4.00 pm (IST) onwards in Mumbai, ....",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/30135d23-cbb4-4e12-8dd7-5334957b09d1.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "0728f7d1-d8d3-4987-816b-020e559a1ec9",
+  "ticker": "CHOLAFIN",
+  "at": "2026-11-24T12:57:33+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Demise",
+  "summary": "Intimation on demise of Ms. Bhama Krishnamurthy, Independent Director",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ecf2ce34-af5b-4cd9-84ef-5b683cb970b5.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "695e4fa9-1e81-4460-811a-b8e4512b60e7",
+  "ticker": "PIIND",
+  "at": "2026-11-24T11:09:38+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Invesco Mutual Fund",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/797f9585-5927-4659-acf3-bca2a9cc26f0.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "8ffa5361-7224-443f-be88-05baa27a9fec",
+  "ticker": "PIIND",
+  "at": "2026-11-24T11:05:05+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with TATA Mutual Fund",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/639eb729-e261-46dd-85b0-fee04d5b9c2f.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "be984640-5d2e-44ca-8ed2-0104fe1d7948",
+  "ticker": "POLYCAB",
+  "at": "2026-11-24T10:46:31+05:30",
+  "title": "Intimation",
+  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/1dc4b1bc-18f7-4aad-a61a-6fc2bf9dc0ec.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
   "id": "4fd407d2-9ee2-4f92-bbb6-3099de69eb30",
   "ticker": "SUNPHARMA",
   "at": "2026-11-23T20:35:26+05:30",
