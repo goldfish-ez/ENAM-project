@@ -1,5 +1,65 @@
 [
  {
+  "id": "b84813f6-e83a-4150-a44d-966895b645e5",
+  "ticker": "BAJFINANCE",
+  "at": "2026-11-25T18:33:46+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Schedule of Analysts''/Investors'' meet to be held on 7 December 2026.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/382a5cb7-2a3d-42ad-bb0e-ba1f7fa27e96.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "9280e112-5802-4780-b428-844959a29312",
+  "ticker": "HDFCBANK",
+  "at": "2026-11-25T18:00:23+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Change in Directorate",
+  "summary": "Re-appointment of Dr. (Mr.) Harsh Kumar Bhanwala as an Independent Director of the Bank",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/74191bfa-12e0-4cc3-9e25-56875f02c1a5.pdf",
+  "category": "management_change",
+  "source": "bse"
+ },
+ {
+  "id": "69f322c4-6b2d-40b8-99a9-d8b6672bfe56",
+  "ticker": "ASIANPAINT",
+  "at": "2026-11-25T17:10:08+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "This is to inform you that the Company through its representatives, will be participating in the meeting as per enclosed schedule.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/59854c76-de00-4260-845d-4dec60857bab.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "0e83e028-97b4-4dc7-8b1f-381798b25b85",
+  "ticker": "DIXON",
+  "at": "2026-11-25T16:39:12+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A of Part A of Schedule III of the said ....",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fbd3b5bc-27f4-4acb-bca2-3b1ea57f0d9b.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "4c1956a3-16f3-4931-b5f4-7c3e9ec365fc",
+  "ticker": "BAJFINANCE",
+  "at": "2026-11-25T12:49:18+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Allotment",
+  "summary": "Allotment of Secured Redeemable Non- Convertible Debentures on Private Placement basis",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f8212d38-80c0-434c-993a-a5a7a13c84d4.pdf",
+  "category": "fund_raise",
+  "source": "bse"
+ },
+ {
+  "id": "7b8147a7-34c0-4f1f-b120-24a9d826dade",
+  "ticker": "LT",
+  "at": "2026-11-25T11:20:36+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order",
+  "summary": "L&T Wins (Significant*) Order for Battery Energy Storage System in Gujarat",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a0055d51-931d-4156-bcda-4e278bc60805.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
   "id": "96f61525-8229-48c8-b4a3-bd406e4dd583",
   "ticker": "PIIND",
   "at": "2026-11-24T17:47:17+05:30",
