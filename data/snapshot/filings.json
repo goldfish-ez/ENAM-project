@@ -1,5 +1,75 @@
 [
  {
+  "id": "fb491e28-0f0d-42fa-8d83-4fcd48ae1359",
+  "ticker": "ASIANPAINT",
+  "at": "2026-11-26T20:18:44+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+  "summary": "Pursuant to Regulation 30 of the SEBI(LODR) Regulations 2015, find enclosed the presentation to be made at the Nomura Investment Forum, Japan, denominated in Indian Rupees.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f5876333-cc21-4ae5-9c33-cc08d62aa1f5.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "ae5df8e3-52b5-4257-8cad-b7cc0d34fb4d",
+  "ticker": "SUNPHARMA",
+  "at": "2026-11-26T20:05:24+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Investor Presentation",
+  "summary": "Investor Presentation -Nov 2026",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5a9fbc5b-1ebb-4bf3-ad1b-7fd86c520564.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "f0913785-022b-4be7-9f6d-e34cf25d256b",
+  "ticker": "TITAN",
+  "at": "2026-11-26T17:25:22+05:30",
+  "title": "Intimation of Repayment of Commercial Paper (CP)",
+  "summary": "Redemption of Commercial Paper",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8a0f444d-855c-4076-b621-9576728ba46e.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "b2a970d3-3ed7-49b0-b115-1e2a87538902",
+  "ticker": "TITAN",
+  "at": "2026-11-26T17:15:06+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Schedule of Analyst / Institutional Investor Meeting",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/5bd3469f-dcbc-4af7-8f79-4d6a4764dffe.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "7665f718-555d-4665-b937-c2ef564b6623",
+  "ticker": "TRENT",
+  "at": "2026-11-26T14:50:46+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation of schedule of Analyst / Institutional Investors Meeting",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f08bb53a-9d0a-45fd-8b22-4229350d4720.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "981d5854-f9e7-4d17-9a51-35e9caf58873",
+  "ticker": "DIXON",
+  "at": "2026-11-26T11:22:42+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+  "summary": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A and Part A of Schedule III of the said ....",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/52ed09c6-75e8-4cfb-a12f-8e9aa7dcaded.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "68a2e708-9c8a-4505-b424-e3f3bf3f3ba1",
+  "ticker": "TRENT",
+  "at": "2026-11-26T10:58:50+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation of schedule of Analyst / Institutional Investors Meetings",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/29a62fe4-3921-46e1-a81e-5d9129f76c94.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
   "id": "b84813f6-e83a-4150-a44d-966895b645e5",
   "ticker": "BAJFINANCE",
   "at": "2026-11-25T18:33:46+05:30",
@@ -1917,56 +1987,6 @@
   "summary": "Disclosure under Regulation 30 and other applicable regulations of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Change in Managing Director and Chief Executive ....",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e5b2d06f-fea8-4dea-aa03-84674215a0fd.pdf",
   "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "e4c168b5-0735-49cc-a030-f058d7ebc477",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-26T23:29:31+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Allotment",
-  "summary": "The disclosure of allotment of shares dated October 26, 2026, is as enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b633b6e5-f968-461c-b8f1-2ac155afc384.pdf",
-  "category": "fund_raise",
-  "source": "bse"
- },
- {
-  "id": "2147983d-9115-4c12-8ce1-32024d8b1f39",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-26T23:23:43+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Meeting Updates",
-  "summary": "The outcome of the Special Committee Meeting held on October 26, 2026, in relation to the allotment of shares is as enclosed.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4491cbf4-b27c-45f2-a905-1220b80dec9c.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "4c4478a2-f1b2-4f86-a5a2-e999fb27a12a",
-  "ticker": "BAJFINANCE",
-  "at": "2026-10-26T19:33:10+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-  "summary": "Schedule of Analysts''/Investors'' meet.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/bd352f0e-ac9c-4c6d-94cd-6b50802c665b.pdf",
-  "category": "investor_meetings",
-  "source": "bse"
- },
- {
-  "id": "4db0280f-72d0-493e-bbe5-7f64c848f71c",
-  "ticker": "PERSISTENT",
-  "at": "2026-10-26T19:28:42+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Meeting Updates",
-  "summary": "The outcome of the Special Committee Meeting held on October 26, 2026, is as enclosed",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d3ba2a8b-279a-4e0f-9ee8-c99ca501552b.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "3d7c6ff9-d53f-4bf1-8ecf-5587d287b1ed",
-  "ticker": "SUNPHARMA",
-  "at": "2026-10-26T12:30:09+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Allotment",
-  "summary": "Allotment of Non-convertible securities (NCDs) on Private Placement basis",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/2f44a1be-85a8-4545-a86e-71a27b7b7f15.pdf",
-  "category": "fund_raise",
   "source": "bse"
  }
 ]
