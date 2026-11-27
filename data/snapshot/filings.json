@@ -1,5 +1,155 @@
 [
  {
+  "id": "bf02ac8e-689f-4786-a3e2-5fd8d3fbab42",
+  "ticker": "KPITTECH",
+  "at": "2026-11-27T20:00:31+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+  "summary": "KPIT Technologies Limited has informed the Exchange about Outcome of Investor conference held on Friday, November 27, 2026.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/23349fbc-6c60-4348-baf0-e49bcc65d293.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "d55fe773-9477-4cac-b8fe-0be0a725a8ff",
+  "ticker": "PIIND",
+  "at": "2026-11-27T17:11:01+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Aikya Investment Management",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4ed1100d-d118-4847-b73b-c76650f4b28f.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "783612f9-8141-4dee-a170-2ce707c206d6",
+  "ticker": "PIIND",
+  "at": "2026-11-27T17:07:48+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with ICICI Securities PMS",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/a60d558a-3a61-4078-901b-819dee16097f.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "8699d6f1-d8d3-44b3-bcd4-257ee0c3f851",
+  "ticker": "PIIND",
+  "at": "2026-11-27T17:03:08+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Equirus Securities",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/065aae0b-8adb-4c50-9d44-c741be89e8c4.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "4ee84fae-137c-4259-9819-bf8210cfda3c",
+  "ticker": "PIIND",
+  "at": "2026-11-27T17:01:17+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with BofA Securities India Limited and HSBC Securities and Capital Markets (India)",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/79ccb5d4-13ac-4aab-a534-4a938597e9cf.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "6f84b8fa-9c05-40ed-bed5-978f8d5e3fca",
+  "ticker": "PIIND",
+  "at": "2026-11-27T16:58:59+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Phillip Capital (India) and Antique Stock Broking",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/afff329e-f1ba-4be4-ae2b-27bde488bbcc.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "474e7708-1e56-46d3-8cdb-a5cd248c1ed5",
+  "ticker": "PIIND",
+  "at": "2026-11-27T16:53:24+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with BugleRock Capital",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/8c9cd704-a62d-4267-bceb-6e34348f5c90.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "8e669d28-0664-46b0-9651-8fa3909db502",
+  "ticker": "PIIND",
+  "at": "2026-11-27T16:51:35+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Invisage Capital",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/56f7eeb9-9bb9-47ae-9396-de07cb9fe254.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "ac1e7768-56e3-4146-bb78-4e3e95c8b95b",
+  "ticker": "PIIND",
+  "at": "2026-11-27T16:48:21+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Enam Asset Management Company and Oaklane Capital",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d838dcb5-2a06-4858-b75c-186b67e391af.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "6efa3980-55ed-4d8d-8384-7248e6790345",
+  "ticker": "PIIND",
+  "at": "2026-11-27T16:44:39+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Intimation for interaction with Saltoro Investment Advisors",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ef0a0999-023e-40c7-99c5-af75fb41350d.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "9fc44e46-9c5e-4d68-8d61-d44fb6a4805e",
+  "ticker": "TITAN",
+  "at": "2026-11-27T16:40:28+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+  "summary": "Schedule of Analysts / Institutional Investors Meeting",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/866fb4fe-ca21-4edb-8f11-961cbf2d3d0a.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "6b79d7cd-b510-4694-872b-1a43053a4f74",
+  "ticker": "HDFCBANK",
+  "at": "2026-11-27T16:13:06+05:30",
+  "title": "Newspaper Publication Regarding Special Window For Transfer And Dematerialisation Of Physical Shares Of HDFC Bank Limited",
+  "summary": "Copy of newspaper publication",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f2309ded-112f-4e57-9d7b-b4634d79834a.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "15350cf7-86f5-4fc6-bbdf-b37b41321d45",
+  "ticker": "PERSISTENT",
+  "at": "2026-11-27T14:45:49+05:30",
+  "title": "Intimation Of Proposed Secondary Market Purchase Of Persistent Shares By ESOP Trust Of The Company In A Scheduled Manner",
+  "summary": "The intimation of proposed Secondary Market Purchase of Persistent Shares by ESOP Trust of the Company in a scheduled manner.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0a988239-92e5-4001-b603-0ec1001b7add.pdf",
+  "category": "unclassified",
+  "source": "bse"
+ },
+ {
+  "id": "7396d82b-4bd1-4fe1-8aa9-02145727322d",
+  "ticker": "DIXON",
+  "at": "2026-11-27T14:18:10+05:30",
+  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+  "summary": "Pursuant to the provisions of Regulations 30 and 46 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 read with Para A and Part A of schedule III of the said ....",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/aadf8dbb-e076-4ad2-8073-ac32514666fa.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
+  "id": "55134076-4fae-46d4-8242-ad8449f45409",
+  "ticker": "ASIANPAINT",
+  "at": "2026-11-27T13:12:13+05:30",
+  "title": "Cancellation Of Institutional Investor Meeting",
+  "summary": "Find enclosed communication with respect to the cancellation of the meeting scheduled for 27th November 2026 with analyst/institutional investors.",
+  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0a1640da-29a5-4bac-b022-ae8eed61042c.pdf",
+  "category": "investor_meetings",
+  "source": "bse"
+ },
+ {
   "id": "fb491e28-0f0d-42fa-8d83-4fcd48ae1359",
   "ticker": "ASIANPAINT",
   "at": "2026-11-26T20:18:44+05:30",
@@ -1857,136 +2007,6 @@
   "summary": "Update on NCLAT order dated October 27, 2026",
   "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/ead5c0dc-e464-4e53-8006-b861205174a9.pdf",
   "category": "litigation",
-  "source": "bse"
- },
- {
-  "id": "19d277c1-25e8-493a-9f8d-be8df0f3b012",
-  "ticker": "LT",
-  "at": "2026-10-27T22:09:20+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
-  "summary": "Audio recording of Q2 / H1 FY 27 Earning Call",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/0e4c11c6-4c96-42c0-ac94-b2cb928c4f4f.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "3dbdf4e9-0f9c-405e-bc2d-5601a79a1e98",
-  "ticker": "KPITTECH",
-  "at": "2026-10-27T19:53:30+05:30",
-  "title": "Announcement Under Regulations 30 Of SEBI LODR - Grant Of Options To Eligible Employees",
-  "summary": "KPIT Technologies Limited has informed the Exchange about the grant of 54,100 Options to the eligible employees covered under the KPIT Technologies Limited - Restricted Stock Unit Plan 2022",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/fe0fd731-b8f8-4196-a639-066291bf6ef0.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "757969fc-1b60-4ab9-884f-258a81e89ee9",
-  "ticker": "POLYCAB",
-  "at": "2026-10-27T19:01:42+05:30",
-  "title": "Intimation",
-  "summary": "Intimation of Institutional Analyst(s)/Investor(s) meet",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/cafe2036-e51b-413a-80cd-65e331d170be.pdf",
-  "category": "investor_meetings",
-  "source": "bse"
- },
- {
-  "id": "af66ea28-475d-4459-87e7-fda19c68f646",
-  "ticker": "PIIND",
-  "at": "2026-10-27T18:51:04+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-  "summary": "Earnings Conference Call with Analysts / Investors for the quarter and half year ended September 30, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3e2ce6d4-2e0f-467a-ab50-6b49dcd8e6ba.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "e3db1d78-b040-40d9-8ae1-ec5a4cef906c",
-  "ticker": "PIIND",
-  "at": "2026-10-27T18:36:03+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
-  "summary": "Earnings Conference Call with Analysts / Investors for the quarter and half year ended September 30, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/f1a29a3a-f40d-4e41-823c-7d73d9c7e8ad.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "a73ed781-aabf-4244-bf6c-c44c2668e94f",
-  "ticker": "LT",
-  "at": "2026-10-27T18:33:55+05:30",
-  "title": "Analyst Presentation - Q2 / H1 FY27",
-  "summary": "Analyst Presentation - Q2 / H1 FY27",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4c027e30-6b95-4915-9843-bd4e4c437bb1.pdf",
-  "category": "investor_meetings",
-  "source": "bse"
- },
- {
-  "id": "6ac1aed9-4772-43bc-9f6c-1ea4d11a7c0b",
-  "ticker": "PIIND",
-  "at": "2026-10-27T18:26:32+05:30",
-  "title": "Board Meeting Intimation for Consideration And Approval Of Unaudited (Standalone And Consolidated) Financial Results For The Quarter And Half Year Ended September 30, 2026",
-  "summary": "PI Industries Ltdhas informed BSE that the meeting of the Board of Directors of the Company is scheduled on 04/11/2026 ,inter alia, to consider and approve unaudited standalone and consolidated ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/25fc7b0f-c1ed-4a8f-bfb4-98f8360a2dc9.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "84f672d2-60a7-4cef-adec-3711a9c76668",
-  "ticker": "LT",
-  "at": "2026-10-27T17:23:45+05:30",
-  "title": "Outcome Of Board Meeting Of Larsen & Toubro Limited  Held On October 27, 2026",
-  "summary": "Outcome of Board Meeting of Larsen & Toubro Limited held on October 27,2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/be28659d-c65e-4500-917e-02ef891caee6.pdf",
-  "category": "results",
-  "source": "bse"
- },
- {
-  "id": "ff19303b-925a-4392-9219-6125d7ea71f7",
-  "ticker": "LT",
-  "at": "2026-10-27T17:14:57+05:30",
-  "title": "Board Meeting Outcome for Outcome Of Board Meeting Of Larsen & Toubro Limited Held On October 27, 2026",
-  "summary": "Outcome of Board Meeting of Larsen & Toubro Limited held on October 27, 2026",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e0efae36-4554-4d02-8938-9a63b303f9c3.pdf",
-  "category": "unclassified",
-  "source": "bse"
- },
- {
-  "id": "be299086-d70d-4db2-af4b-0307eb15a5d9",
-  "ticker": "ETERNAL",
-  "at": "2026-10-27T16:52:01+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript",
-  "summary": "Eternal Limited has filed with exchange transcript of earnings conference call conducted on October 21, 2026.",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/64f36e3b-87e9-426e-be3e-515dca4525d2.pdf",
-  "category": "earnings_call",
-  "source": "bse"
- },
- {
-  "id": "a696c982-b6cc-4d41-9fe9-ef50f17b2a0f",
-  "ticker": "LT",
-  "at": "2026-10-27T13:26:54+05:30",
-  "title": "Announcement under Regulation 30 (LODR)-Allotment",
-  "summary": "Allotment of Shares",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/6e5c35b1-1012-4947-bf92-558cefc37ca6.pdf",
-  "category": "fund_raise",
-  "source": "bse"
- },
- {
-  "id": "23b4e4f8-3d8b-4f89-a385-4bc94ffbf939",
-  "ticker": "LT",
-  "at": "2026-10-27T10:14:11+05:30",
-  "title": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s)",
-  "summary": "L&T Wins Orders (Major*) for Dhaka Metro",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/115618e0-f718-4b8b-81e1-642618cbe608.pdf",
-  "category": "press_release",
-  "source": "bse"
- },
- {
-  "id": "eee0209e-2a9c-4d1c-91a1-8b1dbc6868a2",
-  "ticker": "HDFCBANK",
-  "at": "2026-10-27T08:06:22+05:30",
-  "title": "Disclosure Under Regulation 30 And Other Applicable Regulations Of The SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015 - Change In Managing Director And Chief Executive Officer Of The Bank",
-  "summary": "Disclosure under Regulation 30 and other applicable regulations of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Change in Managing Director and Chief Executive ....",
-  "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/e5b2d06f-fea8-4dea-aa03-84674215a0fd.pdf",
-  "category": "unclassified",
   "source": "bse"
  }
 ]
